@@ -1,0 +1,26 @@
+.report_loader{
+    display: flex;
+    gap: 5px;
+    margin-top: 10px;
+}
+
+.report_loader span{
+    display: block;
+    width: 24px;
+    height: 4px;
+    border-radius: 10px;
+    background: #E8EBFE;
+    transition: 0.2s ease-in-out;
+}
+
+.report_loader .active{
+    background: #84C15E !important;
+}
+
+
+.statistic{
+    margin-left: auto;
+    width: 450px;
+    display: flex;
+    gap: 50px;
+}

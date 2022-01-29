@@ -1,0 +1,8 @@
+export const FETCH_TABLE_HEADERS = 'FETCH_TABLE_HEADERS'
+export const FETCH_ITEM_SIZES = 'FETCH_ITEM_SIZES'
+export const GET_LENGTH = 'GET_LENGTH'
+export const COUNT = 'COUNT'
+export const OPEN_CLOSE_ERROR = 'OPEN_CLOSE_ERROR'
+export const SET_ERROR = 'SET_ERROR'
+export const SET_SIZE_MB = 'SET_SIZE_MB'
+export const SET_SHOW_TOTAL_SIZE = 'SET_SHOW_TOTAL_SIZE'
